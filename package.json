@@ -1,7 +1,8 @@
 {
-  "name": "superbitcoin-website",
+  "name": "nextjs14-unocss-demo",
   "version": "0.1.0",
   "private": true,
+  "keywords": ["nextjs", "unocss"],
   "scripts": {
     "dev": "next dev",
     "build": "next build",
